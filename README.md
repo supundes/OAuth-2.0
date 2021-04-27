@@ -3,7 +3,7 @@
 <h3>For Testing Implement As Below</h3>
 <ul>
   <li>Create a Facebook App (https://developers.facebook.com)</li>
-  <li>Copy the content of this repository to a folder named " OAuth-2.0" and copy that into the localhost folder (Written in PHP so Wamp,Xampp, etc...)</li>
+  <li>Copy the content of this repository to a folder named "OAuth-2.0" and copy that into the localhost folder (Written in PHP so Wamp,Xampp, etc...)</li>
   <li> 
     Change follwing parameters in following functions.
     <p>AUTH_URL($client_id,$redirect_url) -> change $client_id to your App ID </p>
