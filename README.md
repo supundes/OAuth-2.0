@@ -10,5 +10,5 @@
     <p>get_auth_code($client_id, $redirect_uri, $auth_code, $appID_secret_base64) -> change $client_id to your App ID, and $appID_secret_base64 to the base64 encoded value (https://www.base64encode.org) of (YourAppID:AppSecret).</p></li>
   <li>Run the server. (Wamp,Xampp,etc...)</li>
   <li>Type "http://localhost/OAuth-2.0/index" in a browser window and proceed.</li>
-  <li>https://youtu.be/Ic8ocyphclg</li>
+  <li>Refer to the video if needed. (https://youtu.be/Ic8ocyphclg)</li>
 </ul>
