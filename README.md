@@ -1,6 +1,6 @@
 # OAuth 2.0 Demonstration
 
-<h3>For Testing Implement As Below</h3>
+<h3>For Testing,</h3>
 <ul>
   <li>Create a Facebook App. (https://developers.facebook.com)</li>
   <li>Create a folder named "OAuth-2.0" in the localhost folder (written in PHP so Wamp,Xampp,etc...) and copy the content of this repository there.</li>
